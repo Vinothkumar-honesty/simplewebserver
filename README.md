@@ -45,32 +45,6 @@ content = """
 <head>
     <meta charset="UTF-8">
     <title>TCP/IP Protocol Suite</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        table {
-            width: 60%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-        th {
-            background-color: #2c3e50;
-            color: white;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
     <h1>TCP/IP Protocol Suite</h1>
@@ -121,8 +95,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![alt text](<Screenshot (175).png>)
-
+![alt text](<Screenshot (188).png>)
 ![alt text](<Screenshot (176).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
